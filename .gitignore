@@ -1,7 +1,7 @@
 # Python
 __pycache__/
 *.pyc
-flask-api/venv/
+venv/
 
 # WordPress
 wordpress/wp-content/uploads/
