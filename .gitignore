@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# WordPress
+wordpress/wp-content/uploads/
+wordpress/wp-config.php
+wordpress/wp-content/cache/
+
+# System files
+.DS_Store
+Thumbs.db
