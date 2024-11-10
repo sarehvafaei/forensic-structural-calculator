@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -11,3 +12,14 @@ wordpress/wp-content/cache/
 # System files
 .DS_Store
 Thumbs.db
+=======
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore system files
+.DS_Store
+>>>>>>> 1fc55879bc65641275a56e9955bed5d76de3bc7b
